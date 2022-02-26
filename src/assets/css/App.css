@@ -1,5 +1,18 @@
+@import "./Font.css";
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  font-family: "sahel";
+}
 .App {
+  font-family: "sahel";
   text-align: center;
+  direction: rtl;
 }
 
 .App-logo {
